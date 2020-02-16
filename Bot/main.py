@@ -6,7 +6,7 @@ from random import randint
 client = commands.Bot(command_prefix='!')
 client.remove_command('help')  # removes default help command
 
-TOKEN = 'NjUwODE5Njk5NzIyMTU4MDgx.XiPcxg.K3euwj15Uo3Xc0udT9Ao2OCnV-k'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXXXXX' # replace with your token  
 
 stabGifs = ['https://giphy.com/gifs/glitch-video-game-knife-X7tP14xUk1CsE',
             'https://gfycat.com/discover/stabbing-gifs',
